@@ -10,7 +10,7 @@ As I stepped into Peter Pandey's shoes, my journey unfolded as follows:
 
 - **Objective**: Analyzing Lok Sabha Elections data from 2014 and 2019.
 - **Tools Used**: Power BI, Excel.
-- **Additional Data**: Gathered from [Ministry of Statistics and Programme Implementation (MOSPI)](https://mospi.gov.in/) and [LinkedIn](https://lnkd.in/dP6wm2VF).
+- **Additional Data**: Gathered from [Ministry of Statistics and Programme Implementation (MOSPI)](https://mospi.gov.in/) and [RBI](https://rbi.org.in/Scripts/AnnualPublications.aspx?head=Handbook%20of%20Statistics%20on%20Indian%20States#mainsection).
 
 ## Approach
 
@@ -41,12 +41,12 @@ Through this project, I gained valuable insights and experiences:
 
 Explore the interactive dashboard to delve deeper into the insights from Lok Sabha Elections 2014 and 2019:
 
-[Live Dashboard](#) <iframe title="Resume Project Challenge - (final)" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjNiNjhkYjItZTBiZC00NDMwLTlmOTYtMDgwZTM1NGY1YjJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection658350856163b8795cdb" frameborder="0" allowFullScreen="true"></iframe>
+[Live Dashboard](http://bit.ly/4aWPpNZ)
 
 ## Additional Resources
 
 - [Ministry of Statistics and Programme Implementation (MOSPI)](https://mospi.gov.in/)
-- [Additional Data Source](https://lnkd.in/dP6wm2VF)
+- [RBI](https://rbi.org.in/Scripts/AnnualPublications.aspx?head=Handbook%20of%20Statistics%20on%20Indian%20States#mainsection)
 
 ## Conclusion
 
